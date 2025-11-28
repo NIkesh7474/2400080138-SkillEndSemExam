@@ -1,1 +1,2 @@
-"# Event Calendar" 
+Student profile module
+Course registration module
